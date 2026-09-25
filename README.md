@@ -7,4 +7,5 @@ Here's a list of the projects for this course
      Using Google Colaboratory to introduce the idea of solving sustems of equations with code
      FILE GOES HERE
      
-  2. Second Project
+  2. Ski Hill Example
+     
