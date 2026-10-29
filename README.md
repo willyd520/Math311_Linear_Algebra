@@ -11,4 +11,7 @@ https://github.com/willyd520/Math311_Linear_Algebra/blob/main/Fall2026_Math_311_
   2. Ski Hill Example
 
 Used transition matrices/Markov chains. https://github.com/willyd520/Math311_Linear_Algebra/blob/main/Copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
-     
+
+  3. Sports Teams Rankings
+
+  4. Gram-Schmidt Orthonormalization Process
